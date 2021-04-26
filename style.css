@@ -1,0 +1,67 @@
+#content{
+  padding: 1rem;
+  margin: 0.8rem auto;
+  max-width: 1440px;
+  font-size: larger;
+  align-items: center;
+}
+
+.profilepic{
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 60px;
+}
+
+.fa {
+  margin: 10px;
+}
+
+.navbar-brand{
+  font-size: 46px;
+  margin-right: 10px;
+  font-style: italic;
+}
+
+a{
+  text-decoration: none;
+}
+
+.logoutBtn{
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 30px;
+  background-color: crimson;
+  color: white;
+}
+.loginBtn{
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 30px;
+  background-color: rgb(92, 230, 177);
+  color: black;
+  margin-left: 0 auto;
+}
+
+.btnDownload{
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  background-color: rgb(32, 26, 23);
+  color: white;
+  margin:10px;
+}
+
+
+.title{
+  margin: 12px 0 16px 0;
+  size: 30px;
+  color: crimson;
+
+
+}
+
+h4{
+  margin-bottom: px;
+}
