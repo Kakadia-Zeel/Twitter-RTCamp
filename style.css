@@ -29,16 +29,16 @@ a{
 }
 
 .logoutBtn{
-  padding: 10px;
+  padding: 2px;
   border-radius: 5px;
-  font-size: 30px;
+  font-size: 0.9rem;
   background-color: crimson;
   color: white;
 }
 .loginBtn{
-  padding: 10px;
+  padding: 4px;
   border-radius: 5px;
-  font-size: 30px;
+  font-size: 1.1rem;
   background-color: rgb(92, 230, 177);
   color: black;
   margin-left: 0 auto;
@@ -47,7 +47,7 @@ a{
 .btnDownload{
   padding: 10px;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 1rem;
   background-color: rgb(32, 26, 23);
   color: white;
   margin:10px;

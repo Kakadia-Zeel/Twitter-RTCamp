@@ -20,7 +20,7 @@
         'consumer_secret' => COSUMER_SECRET
     );
 
-    $getfield = '?screen_name='.$screenname;
+    $getfield = '?screen_name='.$screenname.'';
     $twitter = new TwitterAPIExchange($settings);
                 $twitter->setGetfield($getfield)
                         ->buildOauth($followers, $getMethod)
