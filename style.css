@@ -29,16 +29,16 @@ a{
 }
 
 .logoutBtn{
-  padding: 5px;
+  padding: 8px;
   border-radius: 5px;
-  font-size: 1.1rem;
+  font-size: 12px;
   background-color: crimson;
   color: white;
 }
 .loginBtn{
-  padding: 5px;
+  padding: 8px;
   border-radius: 5px;
-  font-size: 1.1rem;
+  font-size: 12px;
   background-color: rgb(92, 230, 177);
   color: black;
   margin-left: 0 auto;
