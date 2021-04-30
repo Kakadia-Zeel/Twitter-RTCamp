@@ -57,7 +57,7 @@
                 $getMethod = 'GET';
                 $postMethod = 'POST';
 
-                $getfield = '?screen_name='.$screenname.'&count=10';
+                $getfield = '?screen_name='.$screenname;
                 
                 // * User Info
                 $twitter = new TwitterAPIExchange($settings);
